@@ -1,0 +1,147 @@
+/**** App Styles ****/
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  overflow:overlay;
+}
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #3973c4;
+  border-radius: 1rem;
+  z-index: -10;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #4e92f1;
+}
+/**** Navbar Styles ****/
+
+.navbar {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 0.9rem;
+  letter-spacing: 0.1rem;
+  color:#fff!important;
+  background-color: rgba(0,0,0,.3);
+  position: fixed!important;
+  z-index: 10;
+  transition: 300ms ease all;
+
+}
+.navbar {
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.nav-btn {
+  padding: 9px 25px;
+  border: none;
+  border-radius: 50px;
+  transition: all 0.3s ease 0s;
+  color: #366bb4 ;
+  text-decoration: none;
+}
+
+.nav-btn:hover {
+  background-color: #528de0 !important;
+  text-decoration: none !important;
+}
+
+.navbar-brand {
+  color: white;
+  display: flex;
+  font-weight: 700;
+  font-size: 1.4rem;
+}
+
+.navbar-brand img {
+  height: 5rem;
+}
+
+.navbar-nav li {
+  padding-right: 3rem;
+  float: right;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #ffffff;
+  padding-top: 0.8rem;
+}
+
+/* Nav Hover */
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: #366bb4;
+  transition: all 300ms ease;
+}
+
+.navbar-toggler {
+  background-color: #366bb4 !important;
+  border-color: black;
+}
+
+/* .dropdown-menu {
+  background-color: rgba(71, 120, 194, 0.1);
+  color:white!important;
+} */
+
+.icon {
+  margin-top: 1rem;
+}
+
+.Nav__black{
+  z-index: 2;
+  background: rgba(0, 0, 0, 0.8)!important;
+  width: 100%;
+  transition: 300ms ease all;
+}
+
+
+
+.dropdown-menu{
+  background-color: rgba(0, 0, 0,.3)!important;
+  position: relative;
+  top: 4.47rem!important;
+  border: none;
+  border-radius: 0;
+  width: 16rem;
+
+}
+
+.dropdown-menu a{
+  color:rgb(255, 255, 255)!important;
+  font-weight: 700;
+  font-size: 0.9rem;
+  letter-spacing: 0.1rem;
+}
+
+.dropdown-item:hover {
+  background-color: #366bb4!important;
+}
+
+.dropdown-item {
+  transition: 300ms ease all;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+@media(max-width: 768px) {
+  .dropdown-menu{
+    background-color: rgba(0, 0, 0, 0)!important;
+  }
+}
+
+/**** End Navbar Styles ****/

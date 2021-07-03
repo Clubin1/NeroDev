@@ -1,0 +1,9 @@
+.contactLanding{
+    height: 30rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    flex-direction: column;
+    text-align: center;
+}
