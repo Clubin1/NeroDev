@@ -7,6 +7,10 @@
 body{
   overflow:overlay;
 }
+
+.textColor{
+  color: #528de0;
+}
 ::-webkit-scrollbar {
   width: 10px;
 }

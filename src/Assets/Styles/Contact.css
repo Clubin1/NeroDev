@@ -7,3 +7,18 @@
     flex-direction: column;
     text-align: center;
 }
+
+.contactSize{
+    font-size: 3rem;
+}
+
+.contactInfo{
+    font-size: 1.2rem;
+    color:rgb(255, 255, 255);
+}
+
+.contactNumber{
+    font-size: 1.2rem;
+    color:rgb(255, 255, 255);
+    font-weight: 500;
+}
