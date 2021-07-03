@@ -8,7 +8,91 @@
     text-align: center;
 }
 
-.workSection{
-    height: 50rem;
+.websiteSection{
+    height: 60rem;
     text-align: center;
+    justify-content: center;
+}
+
+.logoSection{
+    height: 25rem;
+    text-align: center;
+    justify-content: center;
+}
+
+.workInfo{
+    font-size: 1.2rem;
+    color:rgb(255, 255, 255);
+    margin: 0;
+}
+
+.workTitle{
+    color: white;
+    font-size: 3rem;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.buttonRow{
+    display: flex;
+    flex-direction: row;
+    margin-top: .5rem;
+}
+
+.workButton{
+    border: 1px solid white;
+    transition: 200ms ease all;
+    margin-left:1rem;
+    padding: .6rem;
+    width: 8rem;
+}
+
+.workText{
+    color: white;
+    font-weight: 500;
+}
+.workButton:hover{
+    background: white;
+}
+
+.workText:hover{
+    color: rgb(0, 0, 0);
+}
+
+.projectItem{
+    width: 22rem;
+    height: 50rem;
+}
+
+.workSectionTitle{
+    font-weight: 800;
+    font-size: 3rem;
+    text-transform: uppercase;
+    margin-top: 5rem;
+}
+
+.websiteItem{
+    
+    height: 45rem;
+    width: 20rem;
+    margin-left: 1rem;
+    min-width: 20rem;
+}
+
+.logoItem{
+    
+    height: 8rem;
+    width: 10rem;
+    margin-left: 1rem;
+    min-width: 20rem;
+}
+.projectWrapper{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-left: 9rem;
+    padding-right: 10rem;
+    margin-left: -2rem;
+    margin-top: 5rem;
 }

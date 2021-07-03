@@ -1,11 +1,27 @@
 import React from 'react'
 import '../Assets/Styles/Work.css'
 import '../Assets/Styles/Home.css'
+
 const WorkLanding = () => {
     return (
         <div className="workLanding">
-              <h1>OUR WORK</h1>
-            <p>From graphic design to web development, we offer a lot of services at NeroDev. Our main thing as an agency is web development, but we also do graphic design.<br></br></p>
+              <p className="workInfo">Call us, email us, send us a query, we'll respond
+                <span className="textColor"> quickly!</span>
+            </p>
+            <h1 className="workTitle contactSize">Our Past Works</h1>
+        
+            <div className="buttonRow">
+            <a className="workText" href="#websites">
+                <div className="workButton">
+                    WEBSITES
+                </div>
+            </a>
+            <a className="workText" href="#logos">
+                <div className="workButton">
+                    LOGOS
+                </div>
+            </a>
+            </div>
         </div>
     )
 }
