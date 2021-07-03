@@ -1,10 +1,6 @@
 import React from 'react'
 import '../Assets/Styles/Contact.css'
 
-import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
-import {faPhone} from '@fortawesome/free-solid-svg-icons'
-
-
 const ContactLanding = () => {
     return (
         <div className="contactLanding">
