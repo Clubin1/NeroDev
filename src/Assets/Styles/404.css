@@ -1,0 +1,54 @@
+.notFoundSection{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background:#fff;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.notFoundImage{
+    height: 11rem;
+    width: 32rem;
+}
+
+#notFoundRow{
+    text-align: left!important;
+}
+
+.two{
+    margin: 0;
+}
+
+@media(max-width:783px){
+    #notFoundRow{
+        text-align: center!important;
+        margin: 0;
+        margin-top: 3rem;
+
+    }
+    .notFoundImage{
+        height: 10rem;
+        width: 30rem;
+        margin-left: -2rem;
+        margin-top: -2rem;
+    }
+}
+
+@media(max-width:503px){
+    #notFoundRow{
+        text-align: center!important;
+        margin: 0;
+        margin-top: 3rem;
+
+    }
+    .notFoundImage{
+        height: 8rem;
+        width: 20rem;
+        margin-left: -1rem;
+        margin-top: -2rem;
+    }
+}

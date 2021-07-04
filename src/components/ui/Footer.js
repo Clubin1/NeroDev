@@ -45,7 +45,7 @@ const Footer = () => {
                                 <h3>Links & Services</h3>
                             </div>
                             <ul className="footerList">
-                                <li><a href="/home">Home</a></li>
+                                <li><a href="/">Home</a></li>
                                 <li><a href="/development/website">Website Development</a></li>
                                 <li><a href="/works">Past Websites</a></li>
                                 <li><a href="/development/software">Software Development</a></li>
