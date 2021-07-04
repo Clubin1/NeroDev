@@ -1,0 +1,60 @@
+.webSection{
+    height: 35rem;
+}
+
+.web{
+    height: 25rem;
+    background-color: #366bb4;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.websitePricing{
+    height: 65rem;
+    justify-content: center;
+    display: flex;
+    padding-top: 8rem;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    margin-top: -6rem;
+}
+.websiteAbout {
+    height: 35rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+
+#column1, #column2{
+    padding: 0!important;
+}
+#column2{
+    margin-left: 12rem;
+    margin-top: -3rem;
+}
+
+.cardTitle2{
+    border-top: 2px solid white;
+    color: white;
+    font-size: 3rem;
+    font-weight: 800;
+}
+
+.sectionSub{
+    color:white;
+    font-weight: 100;
+    font-size: 1.2rem;
+}
+#f{
+    color:white!important
+}
+
+.serviceItem{
+    color:white;
+    font-size: 1.5rem;
+    font-weight: 100;
+}

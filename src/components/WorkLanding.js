@@ -5,8 +5,7 @@ import '../Assets/Styles/Home.css'
 const WorkLanding = () => {
     return (
         <div className="workLanding">
-              <p className="workInfo">Check out our past work
-                <span className="textColor"> quickly!</span>
+              <p className="workInfo">Check out the <span className="textColor">work</span> we've done for other clients!
             </p>
             <h1 className="workTitle contactSize">Our Past Works</h1>
         
