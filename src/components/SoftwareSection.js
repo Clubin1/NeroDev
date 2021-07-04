@@ -1,12 +1,13 @@
 import React from 'react'
 
+import softwareService from '../Assets/img/DashboardFinal.png'
 const SoftwareSection = () => {
     return (
         <div>
              <div className="websiteAbout">
                 <div id="rowThing" className="row row2">
                     <div className="col">
-                        <img alt="Team Members" className="aboutImage" src="https://vervedev.com/assets/img/pixelhost_macbook.png"/>
+                        <img alt="Team Members" className="aboutImage" src={softwareService}/>
                     </div>
                     <div className="col">
                         <h5>Our team has been in the industry for years!
