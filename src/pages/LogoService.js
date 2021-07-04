@@ -1,10 +1,12 @@
 import React from 'react'
+
+import LogoLanding from '../components/LogoLanding'
 import ContactSection from '../components/ContactSection'
 
 const LogoService = () => {
     return (
         <div>
-            <h1> Logo Service </h1>
+            <LogoLanding/>
             <ContactSection/>
         </div>
     )

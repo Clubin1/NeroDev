@@ -1,10 +1,12 @@
 import React from 'react'
+
+import SoftwareLanding from '../components/SoftwareLanding'
 import ContactSection from '../components/ContactSection'
 
 const SoftwareService = () => {
     return (
         <div>
-            <h1> Software Service </h1>
+            <SoftwareLanding/>
             <ContactSection/>
         </div>
     )

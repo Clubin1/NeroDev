@@ -1,10 +1,12 @@
 import React from 'react'
+
 import ContactSection from '../components/ContactSection'
+import WebsiteLanding from '../components/WebsiteLanding'
 
 const WebService = () => {
     return (
         <div>
-            <h1>Website service</h1>
+            <WebsiteLanding/>
             <ContactSection/>
         </div>
     )

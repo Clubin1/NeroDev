@@ -11,11 +11,13 @@ import Contact from './pages/Contact'
 // Componenets
 import Navbar from './components/ui/Navbar'
 import Footer from './components/ui/Footer'
+import GoToTop from './components/GoToTop'
 
 function App() {
   return (
     <div className="App">
       <Navbar/>
+      <GoToTop />
       <Switch>
         <Route path='/' exact component={Home} />
         <Route path='/development/website' exact component={WebService} />
