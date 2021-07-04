@@ -1,6 +1,6 @@
 import React from 'react'
 
-import '../Assets/Styles/Software.css'
+import '../Assets/Styles/Service.css'
 
 const SoftwareLanding = () => {
     return (

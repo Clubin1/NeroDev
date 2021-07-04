@@ -1,6 +1,6 @@
 import React from 'react'
 
-import '../Assets/Styles/Website.css'
+import '../Assets/Styles/Service.css'
 
 const WebsiteLanding = () => {
     return (

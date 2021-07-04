@@ -1,6 +1,6 @@
 import React from 'react'
 
-import '../Assets/Styles/Logo.css'
+import '../Assets/Styles/Service.css'
 
 const LogoLanding = () => {
     return (

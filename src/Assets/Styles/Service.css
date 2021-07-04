@@ -58,3 +58,49 @@
     font-size: 1.5rem;
     font-weight: 100;
 }
+
+@media(max-width:792px){
+    .websiteAbout{
+        height: 49rem;
+        margin-bottom: 5rem;
+    }
+    .web{
+        height: 40rem;
+    }
+    #column2{
+        margin: 0;
+        margin-top: 1rem;
+    }
+    .websitePricing{
+        height: 105rem;
+        text-align: center;
+    }
+}
+
+@media(max-width:630px){
+    .websitePricing{
+        height: 145rem;
+        text-align: center;
+    }
+}
+
+@media (max-width: 576px) {
+    .cardTitle2 {
+      font-size: 3rem;
+    }
+  
+  }
+  
+  @media (max-width: 576px) {
+    .cardTitle2 {
+      font-size: 2rem;
+    }
+    .websitePricing{
+        height: 150rem;
+        text-align: center;
+    }
+    .sectionSub, .serviceItem{
+        font-size: 1.3rem;
+    }
+
+}
