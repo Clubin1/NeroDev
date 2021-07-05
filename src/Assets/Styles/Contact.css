@@ -32,3 +32,15 @@
         font-size: 1rem;
     }
 }  
+
+#conbtn{
+    margin-left: 0rem!important;
+    font-size: 1rem!important;
+    text-transform: uppercase;
+    font-weight: 500!important;
+}
+.status-message{
+    font-size: 1.2rem;
+    color:rgb(255, 255, 255);
+    font-weight: 500;
+}

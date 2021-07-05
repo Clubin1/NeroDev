@@ -65,9 +65,11 @@ const Footer = () => {
                                 <p>Don’t miss to subscribe to our new feeds, kindly fill the form below.</p>
                             </div>
                             <div class="subscribe-form">
+                                <a href="/contact">
                                 <div className="button">
                                     <span>CONTACT TEAM</span>
                                 </div>
+                                </a>
                                 <div class="copyright-text">
                                     <p>Copyright &copy; 2021 All Rights Reserved by
                                         <a href="/"> NeroDev.</a>

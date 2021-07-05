@@ -11,15 +11,16 @@ const WebsiteSection = () => {
                         <img alt="Team Members" className="aboutImage" src={serviceWebsite}/>
                     </div>
                     <div className="col">
-                        <h5>Our team has been in the industry for years!
+                        <h5>Times are changing, let's help you keep up!
                         </h5>
-                        <h1 className="cardTitle">A TEAM FILLED WITH
-                                                                                                                                        EXPERIENCE</h1>
-                        <p>Our team has more then 5 years of experience coding! Our team is dedicated to bringing clients the most up to date, innovative, efficient and effective graphic designing techniques for their websites and the marketing industry. Choose us today to grow your business!
-                        </p>
+                        <h1 className="cardTitle">WHY YOU NEED A
+NEW WEBSITE</h1>
+                        <p>Most website designers overlook the tiny details when developing their client's website. When you choose us to develop your website you will never regret it. We optimize each of our websites for every modern device used that can access the Internet. Your website content won't be outside the screen or hard to read like it is right now. You know it and so do we, it's time to choose VerveDev!</p>
+                        <a href="#con">
                         <button className="btnPosition">
                             <span>CONTACT TEAM</span>
                         </button>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -30,8 +31,7 @@ const WebsiteSection = () => {
                         
                         <h1 className="cardTitle2">SERVICE FEATURES</h1>
 
-                        <p className="sectionSub">We tailor every single package to fit the needs of our clients perfectly! Here are a few of the things you can expect with one of our website design packages!</p>
-
+                        <p className="sectionSub">We're commited to customer satisfaction and gurantee every package is fit the customers needs. All of our packeges are guranteed to have the following!</p>
                     </div>
                     <div id="column2" className="col">
                         <p className="serviceItem">
@@ -82,9 +82,11 @@ const WebsiteSection = () => {
                 <p>Pricing listed above is subject to change depending on complexity of the project. Could be less, could be more!
 
                 </p>
+                <a href="#con">
                 <div className="cardButton">
                     <span>CONTACT TEAM</span>
                 </div>
+                </a>
             </div>
             <div className="priceCard">
                 <h1 className="cardTitle">STANDARD</h1>
@@ -109,9 +111,11 @@ const WebsiteSection = () => {
                 <p>Pricing listed above is subject to change depending on complexity of the project. Could be less, could be more!
 
                 </p>
+                <a href="#con">
                 <div className="cardButton">
                     <span>CONTACT TEAM</span>
                 </div>
+                </a>
             </div>
             <div className="priceCard">
                 <h1 className="cardTitle">PREMUIM</h1>
@@ -137,12 +141,14 @@ const WebsiteSection = () => {
                 <p>Pricing listed above is subject to change depending on complexity of the project. Could be less, could be more!
 
                 </p>
+                <a href="#con">
                 <div className="cardButton">
                     <span>CONTACT TEAM</span>
                 </div>
+                </a>
             </div>
             </div>
-                <h6 className="cardUnder">* Need something more custom? No problem! Feel free to send our website design team a message to inquire about your project by clicking here! *
+                <h6 className="cardUnder">* Want something more fit for you? Let us know, feel free to send us a message to get a qoute on your idea! *
                 </h6>
             </div>
         </div>

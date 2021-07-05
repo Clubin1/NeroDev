@@ -10,7 +10,7 @@ const HomeAbout = () => {
             <div className="col">
                 <img alt="Team Members" className="aboutImage" src={aboutImage}/>
             </div>
-            <div className="col">
+            <div className="col sss">
                 <h5>Our team has been in the industry for years!
                 </h5>
                 <h1 className="cardTitle">A TEAM FILLED WITH
@@ -19,24 +19,27 @@ const HomeAbout = () => {
 
 
                 </p>
+                <a href="#con">
                 <button className="btnPosition">
                     <span>CONTACT TEAM</span>
                 </button>
+                </a>
             </div>
         </div>
 
         <div id="rowThing"className="row row2 aboutSecond">
 
             <div className="col">
-                <h5>Our team has been in the industry for years!
+                <h5>Proven track record for customer satisfaction!
                 </h5>
-                <h1 className="cardTitle">A TEAM FILLED WITH
-                                                                                EXPERIENCE</h1>
+                <h1 className="cardTitle">HELP US KICK START YOUR BUISNESS</h1>
                 <p>Our team is dedicated to kick starting new businesses around the world. Bringing new, innovating, efficient and effective graphic design techniques to the marketing industry. Choose us today to grow your business!
                 </p>
+                <a href="#con">
                 <button className="btnPosition">
                     <span>CONTACT TEAM</span>
                 </button>
+                </a>
             </div>
             <div className="col">
                 <div className='colorDiv'>
@@ -46,8 +49,8 @@ const HomeAbout = () => {
         </div>
     </div>
     <div className="aboutFooter">
-        <h1 className="cardTitle">WHY CHOOSE US?</h1>
-        <p className="aboutInfo">From graphic design to web development, we offer a lot of services at NeroDev. Our main thing as an agency is web development, but we also do graphic design. <br></br>We can custom make any logos or images fit to your desires to make your company look more professional.</p>
+        <h1 className="cardTitle ee">WHY CHOOSE US?</h1>
+        <p className="aboutInfo ff">From graphic design to web development to software development, we offer a lot of services at NeroDev. Our main thing as an agency is web development, but we also do graphic design. <br></br>We can custom make any logos or images fit to your desires to make your company look more professional.</p>
     </div>
     </div>
     )

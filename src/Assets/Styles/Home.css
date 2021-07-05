@@ -94,6 +94,7 @@ button:hover:after {
   justify-content: center;
   flex-direction: column;
   align-items: center;
+  margin-top: 3rem;
 }
 
 .row {
@@ -111,7 +112,9 @@ button:hover:after {
   border-radius: 0;
   box-shadow: none;
   color: #366bb4;
+  margin-top: 0rem;
 }
+
 
 .btnPosition:hover {
   background: #366bb4 !important;
@@ -472,4 +475,14 @@ fieldset {
   #conbtn {
     width: 17rem !important;
   }
+}
+
+
+.ee{
+  color:white!important;
+}
+
+.ff{
+  color:white!important;
+  font-weight: 100;
 }

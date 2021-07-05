@@ -4,7 +4,7 @@ const HomePricing = () => {
     return (<div className="aboutPricing">
         <p className="cardSub">We strive to bring new and innovating ideas for client use worldwide!
         </p>
-        <h1 className="cardTitle">SOME OF OUR PAST WEBSITES
+        <h1 className="cardTitle">OUR WEBSITE DEVELOPMENT PRICES
         </h1>
         <div className="cardRow">
             <div className="priceCard">
@@ -27,12 +27,12 @@ const HomePricing = () => {
                 <p>
                     <i class="fa fa-clock"></i> Delivery time: 1 Week</p>
 
-                <p>Pricing listed above is subject to change depending on complexity of the project. Could be less, could be more!
-
-                </p>
+                <p>Pricing listed above is subject to change depending on complexity of the project. Could be less, could be more!</p>
+                <a href="#con"> 
                 <div className="cardButton">
                     <span>CONTACT TEAM</span>
                 </div>
+                </a>
             </div>
             <div className="priceCard">
                 <h1 className="cardTitle">STANDARD</h1>
@@ -57,9 +57,11 @@ const HomePricing = () => {
                 <p>Pricing listed above is subject to change depending on complexity of the project. Could be less, could be more!
 
                 </p>
+                <a href="#con"> 
                 <div className="cardButton">
                     <span>CONTACT TEAM</span>
                 </div>
+                </a>
             </div>
             <div className="priceCard">
                 <h1 className="cardTitle">PREMUIM</h1>
@@ -85,12 +87,14 @@ const HomePricing = () => {
                 <p>Pricing listed above is subject to change depending on complexity of the project. Could be less, could be more!
 
                 </p>
+                <a href="#con"> 
                 <div className="cardButton">
                     <span>CONTACT TEAM</span>
                 </div>
+                </a>
             </div>
         </div>
-        <h6 className="cardUnder">* Need something more custom? No problem! Feel free to send our website design team a message to inquire about your project by clicking here! *
+        <h6 className="cardUnder">* Want something more fit for you? Let us know, feel free to send us a message to get a qoute on your idea! *
         </h6>
     </div>)
 }
