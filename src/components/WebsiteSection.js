@@ -15,7 +15,7 @@ const WebsiteSection = () => {
                         </h5>
                         <h1 className="cardTitle">WHY YOU NEED A
 NEW WEBSITE</h1>
-                        <p>Most website designers overlook the tiny details when developing their client's website. When you choose us to develop your website you will never regret it. We optimize each of our websites for every modern device used that can access the Internet. Your website content won't be outside the screen or hard to read like it is right now. You know it and so do we, it's time to choose VerveDev!</p>
+                        <p>Most website designers overlook the tiny details when developing their client's website. When you choose us to develop your website you will never regret it. We optimize each of our websites for every modern device used that can access the Internet. Your website content won't be outside the screen or hard to read like it is right now. You know it and so do we, it's time to choose NeroDev!</p>
                         <a href="#con">
                         <button className="btnPosition">
                             <span>CONTACT TEAM</span>
