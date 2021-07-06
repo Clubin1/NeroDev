@@ -53,13 +53,13 @@ NEW WEBSITE</h1>
                     </div>
                 </div>
             </div>
-            <div className="websitePricing">
+            <div className=" pen">
                 <p className="cardSub">We strive to bring new and innovating ideas for client use worldwide!
                 </p>
                 <h1 className="cardTitle">OUR WEBSITE DEVELOPMENT PRICING
                 </h1>
                 <div className="cardRow">
-            <div className="priceCard">
+            <div  id="twotime" className="priceCard sasdasd gg">
                 <h1 className="cardTitle">BASIC</h1>
                 <h3 >$300</h3>
                 <p>
@@ -87,7 +87,7 @@ NEW WEBSITE</h1>
                 </div>
                 </a>
             </div>
-            <div className="priceCard">
+            <div className="priceCard gg">
                 <h1 className="cardTitle">STANDARD</h1>
                 <h3>$600</h3>
                 <p>
@@ -120,7 +120,7 @@ NEW WEBSITE</h1>
                 </div>
                 </a>
             </div>
-            <div className="priceCard">
+            <div className="priceCard gg">
                 <h1 className="cardTitle">PREMUIM</h1>
                 <h3>$1200</h3>
                 <p>

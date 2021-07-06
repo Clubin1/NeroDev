@@ -29,7 +29,7 @@ const SoftwareSection = () => {
                         
                         <h1 className="cardTitle2">SERVICE FEATURES</h1>
 
-                        <p className="sectionSub">We tailor every single package to fit the needs of our clients perfectly! Here are a few of the things you can expect with one of our website design packages!</p>
+                        <p className="sectionSub">We tailor every single package to fit the needs of our clients perfectly! Here are a few of the things you can expect with one of our software development packages!</p>
 
                     </div>
                     <div id="column2" className="col">
@@ -52,7 +52,7 @@ const SoftwareSection = () => {
                     </div>
                 </div>
             </div>
-            <div className="websitePricing">
+            <div id="softwarePricing" className="s asdasdasd">
                 <p className="cardSub">We strive to bring new and innovating ideas for client use worldwide!
                 </p>
                 <h1 className="cardTitle">OUR SOFTWARE DEVELOPMENT PRICING

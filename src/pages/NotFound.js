@@ -7,10 +7,10 @@ const NotFound = () => {
         <div className="notFoundSection">
 
                 <div id="rowThing" className="row row2">
-            <div className="col">
+            <div className="col notFoundThing">
                 <img alt="Team Members" className="notFoundImage" src="https://www.seekpng.com/png/detail/825-8254341_404-error-not-found.png"/>
             </div>
-            <div id="notFoundRow"className="col">
+            <div id="notFoundRow"className="colNot">
                 <h5>Looks like you're lost.
                 </h5>
                 <h1 className="cardTitle">Error: 404</h1>

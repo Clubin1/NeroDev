@@ -62,7 +62,7 @@ YOUR LOGO</h1>
                 <h1 className="cardTitle">OUR lOGO DESIGN PRICING
                 </h1>
                 <div className="cardRow">
-            <div className="priceCard">
+            <div id="twotime" className="priceCard">
                 <h1 className="cardTitle">BASIC</h1>
                 <h3 >$100</h3>
                 <p>
@@ -91,7 +91,7 @@ YOUR LOGO</h1>
                 </div>
                 </a>
             </div>
-            <div className="priceCard">
+            <div id="twotime" className="priceCard">
                 <h1 className="cardTitle">STANDARD</h1>
                 <h3>$250</h3>
                 <p>
@@ -120,7 +120,7 @@ YOUR LOGO</h1>
                 </div>
                 </a>
             </div>
-            <div className="priceCard">
+            <div id="twotime" className="priceCard">
                 <h1 className="cardTitle">PREMUIM</h1>
                 <h3>$400</h3>
                 <p>

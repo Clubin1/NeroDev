@@ -12,7 +12,7 @@
 }
 
 .websitePricing{
-    height: 65rem;
+    height: 70rem;
     justify-content: center;
     display: flex;
     padding-top: 8rem;
@@ -20,6 +20,14 @@
     align-content: center;
     align-items: center;
     margin-top: -6rem;
+}
+#twotime{
+    height: 38rem;
+
+}
+
+.sasdasd{
+    margin-top: -7rem;
 }
 .websiteAbout {
     height: 35rem;
@@ -105,3 +113,68 @@
     }
 
 }
+
+@media(max-width:786px){
+    div .s{
+        height: 72rem!important;
+    }
+    .aboutImage{
+        width: 30rem;
+        height: 20rem;
+        margin-left: 0rem;
+        margin-bottom: 1rem;
+    }
+}
+
+@media(max-width:786px){
+    div .pen{
+        height: 116rem!important;
+    }
+
+}
+
+@media(max-width:626px){
+    div .pen{
+        height: 160rem!important;
+    }
+    #twotime{
+        margin-top: 0;
+    }
+}
+
+@media(max-width:340px){
+    div .pen{
+        height: 160rem!important;
+    }
+    #twotime{
+        margin-top: 0;
+    }
+}
+@media(max-width:340px){
+    div .s{
+        height: 80rem!important;
+    }
+    .aboutImage{
+        width: 20rem;
+        height: 15rem;
+        margin-left: 0rem;
+        margin-bottom: 1rem;
+    }
+}
+@media(max-width:768px){
+    .priceCard{
+        margin-bottom: 1rem!important;
+    }
+}
+.s,.pen{
+    height: 70rem;
+    justify-content: center;
+    display: flex;
+    padding-top: 8rem;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    margin-top: -6rem;
+    text-align: center;
+}
+
