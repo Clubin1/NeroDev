@@ -1,6 +1,12 @@
 import React from 'react'
 
 import websiteItem from '../Assets/img/website.png'
+import bn from '../Assets/img/bnsite.png';
+import sym from '../Assets/img/symsite.png';
+
+import pbd from '../Assets/img/pbd.png';
+import bnlogo from '../Assets/img/biznan.png';
+
 import logoItem from '../Assets/img/NeroDEV_Inverted.png'
 
 const WorkProjects = () => {
@@ -12,11 +18,11 @@ const WorkProjects = () => {
                 <div className="projectWrapper">
                     <div className="websiteItem">
                         <img alt="website item" className="websiteItem"
-                            src={websiteItem}></img>
+                            src={bn}></img>
                     </div>
                     <div className="websiteItem">
                         <img alt="website item" className="websiteItem"
-                            src={websiteItem}></img>
+                            src={sym}></img>
 
                     </div>
                     <div className="websiteItem">
@@ -39,11 +45,11 @@ const WorkProjects = () => {
                 <div className="projectWrapper">
                     <div className="logoItem">
                         <img alt ="logo item"className="logoItem"
-                            src={logoItem}></img>
+                            src={pbd}></img>
                     </div>
                     <div className="logoItem">
                         <img alt ="logo item"className="logoItem"
-                            src={logoItem}></img>
+                            src={bnlogo}></img>
 
                     </div>
                     <div className="logoItem">
