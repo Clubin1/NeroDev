@@ -33,7 +33,7 @@ const HomeAbout = () => {
                 <h5>Proven track record for customer satisfaction!
                 </h5>
                 <h1 className="cardTitle">HELP US KICK START YOUR BUISNESS</h1>
-                <p>Our team is dedicated to kick starting new businesses around the world. Bringing new, innovating, efficient and effective graphic design techniques to the marketing industry. Choose us today to grow your business!
+                <p>We have plenty of expierence in this field and we're ready to bring the newest and most professional technology to your company. Have a digital precense these days is more important than ever. Let us help you get a head start.
                 </p>
                 <a href="#con">
                 <button className="btnPosition">
