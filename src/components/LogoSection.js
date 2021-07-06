@@ -1,6 +1,7 @@
 import React from 'react'
 
 import LogoService from '../Assets/img/logoService.jpg'
+
 const LogoSection = () => {
     return (
         <div>
@@ -10,12 +11,13 @@ const LogoSection = () => {
                         <img alt="Team Members" className="aboutImage" src={LogoService}/>
                     </div>
                     <div className="col">
-                        <h5>Our team has been in the industry for years!
-                        </h5>
-                        <h1 className="cardTitle">A TEAM FILLED WITH
-                                                                                                                                        EXPERIENCE</h1>
-                        <p>Our team has more then 5 years of experience coding! Our team is dedicated to bringing clients the most up to date, innovative, efficient and effective graphic designing techniques for their websites and the marketing industry. Choose us today to grow your business!
-                        </p>
+                        <h5>Your logo is your brand identity!
+ </h5>
+                        <h1 className="cardTitle">THE IMPORTANCE OF
+YOUR LOGO</h1>
+                        <p>When you think of the most successful companies around the world, the first thing that should stick in your mind is their logo! Companies such as Apple, Samsung, Google, etc. all have logos that are very memorable. Creating amazing logos that leave great first impressions in the mind of your customers is what we specialize in. Having a great logo is what will make the difference in turning a lead into an actual customer!
+
+</p>
                         <a href="#con">
                         <button className="btnPosition">
                             <span>CONTACT TEAM</span>
@@ -57,26 +59,26 @@ const LogoSection = () => {
             <div className="websitePricing">
                 <p className="cardSub">We strive to bring new and innovating ideas for client use worldwide!
                 </p>
-                <h1 className="cardTitle">OUR WEBSITE DEVELOPMENT PRICING
+                <h1 className="cardTitle">OUR lOGO DESIGN PRICING
                 </h1>
                 <div className="cardRow">
             <div className="priceCard">
                 <h1 className="cardTitle">BASIC</h1>
                 <h3 >$100</h3>
                 <p>
-                    <i id="g" class="fa fa-check"></i> Website Item</p>
+                    <i id="g" class="fa fa-check"></i> 1 logo Content</p>
                 <p>
-                    <i class="fa fa-check"></i> Website Item</p>
+                    <i class="fa fa-check"></i> High Resolution</p>
                 <p>
-                    <i class="fa fa-check"></i> Website Item</p>
+                    <i class="fa fa-check"></i> 2 Rounds of Revisions</p>
                 <p>
-                    <i class="fa fa-check"></i> Website Item</p>
+                    <i class="fa fa-check"></i> 1 Hour of Strategy</p>
                 <p>
-                    <i class="fa fa-check"></i> Website Item</p>
+                    <i class="fa fa-check"></i> Professional Branding</p>
                 <p>
-                    <i class="fa fa-check"></i> Website Item</p>
+                    <i class="fa fa-check"></i> Vector Source Files </p>
                 <p>
-                    <i class="fa fa-check"></i> Website Item</p>
+                    <i class="fa fa-check"></i> Original Design</p>
                 <p>
                     <i class="fa fa-clock"></i> Delivery time: 1 Week</p>
 
@@ -93,21 +95,21 @@ const LogoSection = () => {
                 <h1 className="cardTitle">STANDARD</h1>
                 <h3>$250</h3>
                 <p>
-                    <i class="fa fa-check"></i> Website Item</p>
+                    <i id="g" class="fa fa-check"></i> 2 logo Content</p>
                 <p>
-                    <i class="fa fa-check"></i> Website Item</p>
+                    <i class="fa fa-check"></i> High Resolution</p>
                 <p>
-                    <i class="fa fa-check"></i> Website Item</p>
+                    <i class="fa fa-check"></i> 4 Rounds of Revisions</p>
                 <p>
-                    <i class="fa fa-check"></i> Website Item</p>
+                    <i class="fa fa-check"></i> 2 Hour of Strategy</p>
                 <p>
-                    <i class="fa fa-check"></i> Website Item</p>
+                    <i class="fa fa-check"></i> Professional Branding</p>
                 <p>
-                    <i class="fa fa-check"></i> Website Item</p>
+                    <i class="fa fa-check"></i> Vector Source Files </p>
                 <p>
-                    <i class="fa fa-check"></i> Website Item</p>
+                    <i class="fa fa-check"></i> Original Design</p>
                 <p>
-                    <i class="fa fa-clock"></i> Delivery time: 1-2 Weeks</p>
+                    <i class="fa fa-clock"></i> Delivery time: 1 Week</p>
 
                 <p>Pricing listed above is subject to change depending on complexity of the project. Could be less, could be more!
 
@@ -122,21 +124,21 @@ const LogoSection = () => {
                 <h1 className="cardTitle">PREMUIM</h1>
                 <h3>$400</h3>
                 <p>
-                    <i class="fa fa-check"></i> Website Item</p>
+                    <i id="g" class="fa fa-check"></i> Multiple logo Content</p>
                 <p>
-                    <i class="fa fa-check"></i> Website Item</p>
+                    <i class="fa fa-check"></i> High Resolution</p>
                 <p>
-                    <i class="fa fa-check"></i> Website Item</p>
+                    <i class="fa fa-check"></i> Unlimited Rounds of Revisions</p>
                 <p>
-                    <i class="fa fa-check"></i> Website Item</p>
+                    <i class="fa fa-check"></i> Unlimited Hours of Strategy</p>
                 <p>
-                    <i class="fa fa-check"></i> Website Item</p>
+                    <i class="fa fa-check"></i> Professional Branding</p>
                 <p>
-                    <i class="fa fa-check"></i> Website Item</p>
+                    <i class="fa fa-check"></i> Vector Source Files </p>
                 <p>
-                    <i class="fa fa-check"></i> Website Item</p>
+                    <i class="fa fa-check"></i> Original Design</p>
                 <p>
-                    <i class="fa fa-clock"></i> Delivery time: 2-4 Weeks</p>
+                    <i class="fa fa-clock"></i> Delivery time: 1 Week</p>
 
 
                 <p>Pricing listed above is subject to change depending on complexity of the project. Could be less, could be more!

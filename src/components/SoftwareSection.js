@@ -10,12 +10,10 @@ const SoftwareSection = () => {
                         <img alt="Team Members" className="aboutImage" src={softwareService}/>
                     </div>
                     <div className="col">
-                        <h5>Our team has been in the industry for years!
+                        <h5>Need some custom software to run your buisness?
                         </h5>
-                        <h1 className="cardTitle">A TEAM FILLED WITH
-                                                                                                                                        EXPERIENCE</h1>
-                        <p>Our team has more then 5 years of experience coding! Our team is dedicated to bringing clients the most up to date, innovative, efficient and effective graphic designing techniques for their websites and the marketing industry. Choose us today to grow your business!
-                        </p>
+                        <h1 className="cardTitle">SOFTWARE ENGINEERING SOLUTIONS</h1>
+                        <p>Our team has had a lot of expierence with running a buisness. Nowadays most buisnesses need some sort of software, external or internal. This software can be used for a variety of purposes, from database management, to revunue analysis, let us take care of the hardwork to deliver you your own software.</p>
                         <a href="#con">
                         <button className="btnPosition">
                             <span>CONTACT TEAM</span>
@@ -57,55 +55,34 @@ const SoftwareSection = () => {
             <div className="websitePricing">
                 <p className="cardSub">We strive to bring new and innovating ideas for client use worldwide!
                 </p>
-                <h1 className="cardTitle">OUR WEBSITE DEVELOPMENT PRICING
+                <h1 className="cardTitle">OUR SOFTWARE DEVELOPMENT PRICING
                 </h1>
                 <div className="cardRow">
             <div className="priceCard">
-                <h1 className="cardTitle">BASIC</h1>
-                <h3 >$400</h3>
+                <h1 className="cardTitle">PREMUIM</h1>
+                <h3 >$400 - $2000</h3>
                 <p>
-                    <i id="g" class="fa fa-check"></i> Website Item</p>
+                    <i id="g" class="fa fa-check"></i> Secure Software</p>
                 <p>
-                    <i class="fa fa-check"></i> Website Item</p>
+                    <i class="fa fa-check"></i> Website Integration </p>
                 <p>
-                    <i class="fa fa-check"></i> Website Item</p>
+                    <i class="fa fa-check"></i> Database Connection </p>
                 <p>
-                    <i class="fa fa-check"></i> Website Item</p>
+                    <i class="fa fa-check"></i> SEO Optimization</p>
                 <p>
-                    <i class="fa fa-check"></i> Website Item</p>
-                <p>
-                    <i class="fa fa-check"></i> Website Item</p>
-                <p>
-                    <i class="fa fa-check"></i> Website Item</p>
-                <p>
-                    <i class="fa fa-clock"></i> Delivery time: 1 Week</p>
-
-                <p>Pricing listed above is subject to change depending on complexity of the project. Could be less, could be more!
-
-                </p>
-                <a href="#con"> 
-                <div className="cardButton">
-                    <span>CONTACT TEAM</span>
-                </div>
-                </a>
-            </div>
-            <div className="priceCard">
-                <h1 className="cardTitle">STANDARD</h1>
-                <h3>$1000</h3>
-                <p>
-                    <i class="fa fa-check"></i> Website Item</p>
-                <p>
-                    <i class="fa fa-check"></i> Website Item</p>
-                <p>
-                    <i class="fa fa-check"></i> Website Item</p>
-                <p>
-                    <i class="fa fa-check"></i> Website Item</p>
-                <p>
-                    <i class="fa fa-check"></i> Website Item</p>
-                <p>
-                    <i class="fa fa-check"></i> Website Item</p>
-                <p>
-                    <i class="fa fa-check"></i> Website Item</p>
+                    <i class="fa fa-check"></i> Fast Software</p>
+                    <p>
+                    <i class="fa fa-check"></i> Easy Access</p>
+                    <p>
+                    <i class="fa fa-check"></i> Multiple Client Revisions</p>
+                    
+                    <p>
+                    <i class="fa fa-check"></i> Content Management Systems</p>
+                    <p>
+                    <i class="fa fa-check"></i> Database Management</p>
+                    
+           
+                    
                 <p>
                     <i class="fa fa-clock"></i> Delivery time: 1-2 Weeks</p>
 
@@ -118,36 +95,7 @@ const SoftwareSection = () => {
                 </div>
                 </a>
             </div>
-            <div className="priceCard">
-                <h1 className="cardTitle">PREMUIM</h1>
-                <h3>$2400</h3>
-                <p>
-                    <i class="fa fa-check"></i> Website Item</p>
-                <p>
-                    <i class="fa fa-check"></i> Website Item</p>
-                <p>
-                    <i class="fa fa-check"></i> Website Item</p>
-                <p>
-                    <i class="fa fa-check"></i> Website Item</p>
-                <p>
-                    <i class="fa fa-check"></i> Website Item</p>
-                <p>
-                    <i class="fa fa-check"></i> Website Item</p>
-                <p>
-                    <i class="fa fa-check"></i> Website Item</p>
-                <p>
-                    <i class="fa fa-clock"></i> Delivery time: 2-4 Weeks</p>
-
-
-                <p>Pricing listed above is subject to change depending on complexity of the project. Could be less, could be more!
-
-                </p>
-                <a href="#con"> 
-                <div className="cardButton">
-                    <span>CONTACT TEAM</span>
-                </div>
-                </a>
-            </div>
+           
             </div>
                 <h6 className="cardUnder">* Want something more fit for you? Let us know, feel free to send us a message to get a qoute on your idea! *
                 </h6>

@@ -272,7 +272,7 @@ button:hover:after {
   font-weight: 900;
 }
 .priceCard{
-  height: 38rem;
+  height: 45rem;
   width: 2rem;
   background-color: rgb(255, 255, 255);
   flex-direction: column;

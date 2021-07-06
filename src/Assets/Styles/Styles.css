@@ -157,7 +157,7 @@ body{
 [id]::before {
   content: '';
   display: block;
-  height:      20rem;
-  margin-top: -20rem;
+  height:      15rem;
+  margin-top: -15rem;
   visibility: hidden;
 }
