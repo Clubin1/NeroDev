@@ -178,3 +178,21 @@
     text-align: center;
 }
 
+@media(max-width:900px){
+    .aboutPricing{
+        height: 120rem!important;
+        text-align: center;
+    }
+}
+
+
+@media(max-width:638px){
+    .aboutPricing{
+        height: 165rem!important;
+        text-align: center;
+    }
+}
+
+.aboutPricing{
+    height: 70rem;
+}
