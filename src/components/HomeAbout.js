@@ -33,7 +33,7 @@ const HomeAbout = () => {
                 <h5>Proven track record for customer satisfaction!
                 </h5>
                 <h1 className="cardTitle">HELP US KICK START YOUR BUISNESS</h1>
-                <p>We have plenty of expierence in this field and we're ready to bring the newest and most professional technology to your company. Having a digital precense these days is more important than ever. Let us help you get a head started.
+                <p>We have plenty of expierence in this field and we're ready to bring the newest and most professional technology to your company. Having a digital precense these days is more important than ever. Let us help you get a head start.
                 </p>
                 <a href="#con">
                 <button className="btnPosition">
