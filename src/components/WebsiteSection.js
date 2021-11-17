@@ -61,7 +61,7 @@ NEW WEBSITE</h1>
                 <div className="cardRow">
             <div  id="twotime" className="priceCard sasdasd gg">
                 <h1 className="cardTitle">BASIC</h1>
-                <h3 >$300</h3>
+                <h3 >$450</h3>
                 <p>
                     <i class="fa fa-check"></i> 1-5 Pages</p>
             
@@ -89,7 +89,7 @@ NEW WEBSITE</h1>
             </div>
             <div className="priceCard gg">
                 <h1 className="cardTitle">STANDARD</h1>
-                <h3>$600</h3>
+                <h3>$750</h3>
                 <p>
                     <i class="fa fa-check"></i> 5-10 Pages</p>
                 <p>
@@ -122,7 +122,7 @@ NEW WEBSITE</h1>
             </div>
             <div className="priceCard gg">
                 <h1 className="cardTitle">PREMUIM</h1>
-                <h3>$1200</h3>
+                <h3>$1350</h3>
                 <p>
                     <i class="fa fa-check"></i> 10-15 Pages</p>
                 <p>
