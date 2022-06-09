@@ -9,7 +9,7 @@ const HomePricing = () => {
         <div className="cardRow">
             <div id="twotime" className="priceCard">
                 <h1 className="cardTitle">BASIC</h1>
-                <h3 >$450</h3>
+                <h3 >$750</h3>
                 <p>
                     <i class="fa fa-check"></i> 1-5 Pages</p>
             
@@ -37,7 +37,7 @@ const HomePricing = () => {
             </div>
             <div className="priceCard">
                 <h1 className="cardTitle">STANDARD</h1>
-                <h3>$750</h3>
+                <h3>$1550</h3>
                 <p>
                     <i class="fa fa-check"></i> 5-10 Pages</p>
                 <p>
@@ -70,7 +70,7 @@ const HomePricing = () => {
             </div>
             <div className="priceCard">
                 <h1 className="cardTitle">PREMUIM</h1>
-                <h3>$1350</h3>
+                <h3>$2250</h3>
                 <p>
                     <i class="fa fa-check"></i> 10-15 Pages</p>
                 <p>
